@@ -18,7 +18,7 @@ The application is designed around a real-world workflow: helping a barbershop o
 [Open live demo](https://barbershop-project-frontend.vercel.app)
 
 Demo user: `admin@barbershop.com`  
-Demo password: configured for the demo/seed environment.
+Demo password: `admin123`
 
 ## Repositories
 

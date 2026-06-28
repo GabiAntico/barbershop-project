@@ -18,7 +18,7 @@ La aplicación está pensada para un escenario real de trabajo: que una barberí
 [Ver demo online](https://barbershop-project-frontend.vercel.app)
 
 Usuario demo: `admin@barbershop.com`  
-Contraseña demo: la configurada para el entorno demo/seed.
+Contraseña demo: `admin123`
 
 ## Repositorios
 
