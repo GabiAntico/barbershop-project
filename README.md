@@ -17,6 +17,8 @@ The application is designed around a real-world workflow: helping a barbershop o
 
 [Open live demo](https://barbershop-project-frontend.vercel.app)
 
+> Note: the backend is hosted on Render with sleeping enabled, so the first request may take a little while while the service wakes up.
+
 Demo user: `admin@barbershop.com`  
 Demo password: `admin123`
 

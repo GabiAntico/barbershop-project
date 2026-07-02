@@ -17,6 +17,8 @@ La aplicación está pensada para un escenario real de trabajo: que una barberí
 
 [Ver demo online](https://barbershop-project-frontend.vercel.app)
 
+> Nota: el backend está desplegado en Render con sleeping, por lo que la primera request puede tardar un poco mientras el servicio despierta.
+
 Usuario demo: `admin@barbershop.com`  
 Contraseña demo: `admin123`
 
